@@ -2,4 +2,5 @@ Cite três ferramentas ou tecnologias amplamente usadas no
 desenvolvimento web e explique como elas ajudam no processo
 de criação de aplicações web.
 
-R: CSS, HTML, JavaScript
+R: CSS, HTML, JavaScript. Foram essenciais para aplicações web porque foram o primeiro meio de tecnologia para fazer páginas web,
+pelo menos o HTMl e o CSS, o java script é importante para deixar tudo ainda mais dinamico e interativo.
