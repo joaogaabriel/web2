@@ -2,3 +2,5 @@ Considere o cenário em que você está trabalhando em um projeto
 de site com sua dupla. Qual seria sua abordagem inicial para
 organizar as tarefas, escolher ferramentas e implementar boas
 práticas de versionamento e desenvolvimento?
+
+R: Primeramente deveria escolher as tecnologias e a metodologia a ser usada, depois discutir sobre como padronizar o versionamento do codigo.
